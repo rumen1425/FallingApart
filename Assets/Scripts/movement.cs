@@ -17,7 +17,7 @@ public class movement : MonoBehaviour
     private void Update()
     {
         float dirX = Input.GetAxis("Horizontal");
-        rb.velocity = new UnityEngine.Vector2(dirX * 7f, rb.velocity.y); //velocity y is kept instead of resetting to zero and causing character to jump
+        rb.velocity = new UnityEngine.Vector2(dirX * 10f, rb.velocity.y); //velocity y is kept instead of resetting to zero and causing character to jump
 
         if (Input.GetButtonDown("Jump"))
         {

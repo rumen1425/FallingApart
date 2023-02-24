@@ -1,0 +1,7725 @@
+fileFormatVersion: 2
+guid: abf6d78c8c5b6465182d4871f030e3b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioenemysprites_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fa66f29fb243bdb82e257d19e424a
+      internalID: 19112047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e783de7fd0649fa888deea9b487230
+      internalID: -1770049834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170034a1abe474601bfa4228ae64395b
+      internalID: -709656312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfd4e55c5ac446b7ac7423d3c0d3ee1
+      internalID: -846215440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ee6c2c2a4d44948400483714b1de3
+      internalID: 1721490346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfcab931b0e14046af25042af8e1f11
+      internalID: 419591496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1321
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30034a609be0c4bfd993e15c17819b99
+      internalID: 429274798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2ee352a76f4592a0bdb33f586917f
+      internalID: 1469142029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de8003bf12a483d944523b7b50c5bc
+      internalID: -723927274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e408ef9d108d45158028c6380227c5a
+      internalID: 209047489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1325
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53a17773e54a456fad560571eb449a7
+      internalID: -202188296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ce64dc8cc94707a677a4585f93ef9
+      internalID: -755944746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efb5481308046809a1099120c4744f
+      internalID: -200064977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d61c95c61c466683039231aae7072
+      internalID: -472004491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a74c172d7c84df6808b1cda0b58b88
+      internalID: 385759239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1286
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d3add1446243ab85b4a381aa044d2
+      internalID: -251224418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c195aa183e5d47169f16ace2917e44c
+      internalID: -784271071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1280
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf161c9ce7d40d381fc8de3a335ae5
+      internalID: 13890531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1281
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d380d1f13204bbc8003675cb692e4b
+      internalID: -207186392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a4d709b2b894c72aca7f20e24f8f14
+      internalID: -1377809690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1288
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcbe13555f04cbaadfa70e1c005ab6
+      internalID: 1159148768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1286
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2893c6177eb8341dbb497c618741bfe2
+      internalID: 144851330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e50aa753fd7457cae7576589efa5df
+      internalID: 1880246980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb61cd77e4cf4623bfb8aec99f643d9
+      internalID: 96679218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8795a11794f46c3a3ed9c7bd95978c
+      internalID: 64850278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546432f6650744b294c00701b4d1505
+      internalID: 175060409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1247
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8513e0d29dd40e8824bccb76b9eeeb
+      internalID: -1529873915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1246
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4eefe8ab21b43b795144efec9fc6dd
+      internalID: -969697069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad6ccab2b054ed688d5bb2d9f86475
+      internalID: -815824763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdba73032a774c9b9459d86e254f066
+      internalID: -48235310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1245
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b14c323c5b7f4855a0429ab149ac254
+      internalID: 127803511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6cd667a6fe40f494dbcacf17e6baf
+      internalID: -409036635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62679102ffc5c4256bfa87c3c2be74aa
+      internalID: 963088963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac7cdd244d84741a5e51867c714a05
+      internalID: 1389683869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff1bfc79a934f4494e79cdfbd68cd1
+      internalID: 903168968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf2b01947c524ad8bc8e0c95da2ec21
+      internalID: -1191572935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1210
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf50baf6ec7e4429b9ab2c5b4f82b980
+      internalID: 1915168249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f408c0f007343dba1427c80256f10b
+      internalID: 2120309599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808941fad6f844e1d9c657882b5c57be
+      internalID: -833796834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1208
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83ecd83cdd754092b6769ad1b2dd253
+      internalID: -1316720100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180efb0ac3bc9459081e9d4a49479164
+      internalID: 1459104845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86359f4a17107458f8aeca6a60346873
+      internalID: 1765439204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a49145257c4b778615b40b4e43f9e
+      internalID: -121071231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf81553f55a24a71945f5d58bc367b5
+      internalID: -935252587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1166
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf592ba46b74e08973e9a64d9b4908
+      internalID: -1704399354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63734901f945b4c08af464455d4d1e0f
+      internalID: -1080421228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b7acc065e044a5be1cf71190ef7a9
+      internalID: -1691935040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1161
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3308b623f33849a196243d131316ee9
+      internalID: -151829805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6662888470ae4a148878036042969e6
+      internalID: -1600209732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35030e0b0bf854a7babcecfa9cd6eb58
+      internalID: 1557595769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1165
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b66c52ede749ec8a263afe5b236e0
+      internalID: 113357664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf15baf5bf241ddb650df9df97733b
+      internalID: -868722663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2f0e35fe2a42558124f3e3d186b41
+      internalID: 935443630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfa839a3c6074ef2bc31ea498409d68
+      internalID: -1106066872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac411847ee60f4524b352add8a230858
+      internalID: -1909052224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64afb8fb914b452f9be2b6450592fb4
+      internalID: 764488180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a54a299102f478a8d32a5e6f4ca283
+      internalID: -1322616575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1120
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c136e131cd47848072367518ace36
+      internalID: 912444261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1121
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d0e28211bc5493cbe0dfba15492b03
+      internalID: -872532459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab4ac42b1a14008b4ec2b9d9114ab7
+      internalID: -1524259072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137414cc5491448f98ae149a9cfba6a5
+      internalID: -210351660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1128
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2e7682bc8d466b9249ecfb9b9f887
+      internalID: 606453512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_62
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25909c4c6c644969160394c3f7d7c5
+      internalID: 513085232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3250ac61f187f446c99b1c128ec8f935
+      internalID: 580790140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96d9d73b56b4a6ea631aba72f48bab
+      internalID: 2071699203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c9771b19184ff0a346091020b67df
+      internalID: 1339518820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742b6c894e53045fb9ee213f65e80ba9
+      internalID: -239519842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1087
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f3128b24594973bd0331318283535
+      internalID: 1193235040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1086
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14cd0533ae14b81927f980c54a9ad6
+      internalID: -783338956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_69
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def06cc9d20674c77b93bfcb8ce345d7
+      internalID: -673315889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ea7dee9cf0497da1b3f0a9e61f11c
+      internalID: 760207094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1078
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d98ed96ff04ceeb7516a54870135d
+      internalID: -611110259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1046
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c815113ec2044daf9e9bc381b8f80a2
+      internalID: 602333166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482877a4e1ac143e4818530bbba787b3
+      internalID: -1725895083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1046
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a0b5bc3e67486690679ecbab5d91a
+      internalID: -1548336904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1047
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de338b542294d4aab4591672e7581a
+      internalID: 899291968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1050
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a29ce3e4ada49938b6868aa33d0459
+      internalID: -1458055348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_77
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b8100082c04c7d9065a46f30e8b30
+      internalID: -1080294368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d8fc5a22814eccb63817ea187ffc9
+      internalID: -779961111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_79
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1010
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9060fa655ba428f902f53303ef24e5
+      internalID: -2061127307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1007
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ddd3f52d9742568504e3298c75e8a
+      internalID: 45936720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1006
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c1e676e6474f2d8c30c60d4e10141
+      internalID: 595040243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 998
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbda9636a0d4ff19bce0f2522f5788
+      internalID: -1103503791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_83
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 999
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c47db47b814cd2b5f36ebb51c94c6
+      internalID: 1218665738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 998
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775b8ba24d8140d6bd4800d52a9b809
+      internalID: 1768895711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 998
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7c5e846bba492aaed93faee61fafa
+      internalID: 772323890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1007
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ed802ad50e4c54b1b6214e856ab87
+      internalID: 395648335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_87
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 998
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafda4b717064bcba4fca9a7483b9fb
+      internalID: -203816015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 967
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab937c699f84348abcdecf207b6202
+      internalID: 291780613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 966
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7cea3c71424b9b9d4da2221265abb
+      internalID: 1079095174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_90
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9646b10698b4228af742073d84b51a
+      internalID: -535385712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c603bf5d690d4169b277b328da1bbe0
+      internalID: 1641088797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_92
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 967
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a5d828b348c4f5e9f1e7d3ef2fc3a4
+      internalID: 837739364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9527d8419c504e5da3022384c74c3c5
+      internalID: -704680954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 966
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289314ba3bf8d40ea91aba19d9b27f69
+      internalID: -777409570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_95
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 958
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08da55259ecd4bc4a98ad217690a5e5
+      internalID: -527357073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_96
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 958
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869291639b95540e58b311716bc75028
+      internalID: 483156334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_97
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 967
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2984fa50c74655b5010493d5c763e
+      internalID: 1980112259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 958
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe745e67520824e14881295a225307b5
+      internalID: -437786656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 922
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab750afaaa84626a7bcccb3602086e
+      internalID: 1345612182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 922
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f943c0ce8904d5391630961eadaab7
+      internalID: -1896737636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 926
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac382efd814464ca1e5c8f470ca644
+      internalID: -1433474654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 926
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981be22aa2814e5ea7b175e14ff0536
+      internalID: -1870374973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_103
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 926
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed01656e783140ec84dab8b25758596
+      internalID: 1688506861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 918
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf5622898464606b6686fb191605bc
+      internalID: -1589382022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_105
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 920
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b19b63447a48bca4dec600ab305aa
+      internalID: 483167269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 919
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ae3b7c6394462584d510e4b33dc0a
+      internalID: -1019668727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 926
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d3967e690846d8a5e3315a42b69cb
+      internalID: -1553161504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_108
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 927
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6ab791d95884b3ab8923c30553fb82
+      internalID: -380159541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_109
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 918
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6522be73b172449c5b2f1ff22df9dd6b
+      internalID: 2092903414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 875
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844b2c193a024af3b67fd1980156135
+      internalID: -592986069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 875
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036dced09ce0c4396aa92b24a21fccde
+      internalID: -183503667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_112
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 896
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7951c3518fa4c2199e79d0b693cff0
+      internalID: -1988005375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_113
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 897
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929f0d2cf2434b6794dbcdb7086e50a
+      internalID: 1173867381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 886
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b12e2ae94f4f3b86bf9845fb0617f
+      internalID: -1237501149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 886
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc69c952f3af435baf4e056caf85c36
+      internalID: 1802101905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_116
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 887
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0d66dcd4f548fb8dbd2479f830736
+      internalID: -2073795714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_117
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 887
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf85aeb64644245a7b6d8beb368eec
+      internalID: -26902722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 897
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f002b3104b14f3595bb8d0904e734f
+      internalID: 624056483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_119
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 887
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe60e804ea2480ba84333ad60ca469
+      internalID: -1618939256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_120
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 878
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e256631dcdd1b48308521755d52cc709
+      internalID: 1453031879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 874
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bcfde829d1344ae9e56d85bce91d05
+      internalID: 364088793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 877
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001da047d4bf544d5b7d8d83784b5a80
+      internalID: -820434005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 875
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4995381dcc4008b70c798b977f336
+      internalID: 923318709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 837
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a912fadfec6d94eada2d2c8979eb7c65
+      internalID: -1241151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_125
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 773
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7500ab6c80b4e0584f216b97a0fefe
+      internalID: 821917357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 773
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66332026c6493423eacb554fcbe860ab
+      internalID: 1246548952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 847
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd3fc7fe0f0487a8ec62a8ee853b36
+      internalID: 2091768111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_128
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 847
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405950151967f4f57b323231e0eef969
+      internalID: 329770576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_129
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b207f340865498db39a1a6246d807c
+      internalID: 836831482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_130
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6a67ae3591493b9f0702f3d807019
+      internalID: -573887148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_131
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e5d71f43464e8189c04e6f28bd0de
+      internalID: 274868808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_132
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161afcbab9de74482a50cea0894382f8
+      internalID: -475560012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_133
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24cb5ee9583248fe91be04fd5e3cd42
+      internalID: 559329441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 844
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c643075acf54e009fe4c6dd42d4f6a
+      internalID: -1149786750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_135
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 796
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c47fc93f9c044bdea9dcde961a094fa
+      internalID: -796927013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_136
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 806
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09c23807781462e8b21ba86697e36c
+      internalID: -514132159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_137
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 806
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35ef133b0e14958b83b87406d47b50
+      internalID: 1198168626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f705c8152434b9f953432edd61fd09
+      internalID: -1556770833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 808
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febe1da8d5dc4bdfbbca5b855feb538
+      internalID: -510742083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ceceb2b3e1344a0bbd59fb84932f27
+      internalID: 1591770236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_141
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 807
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a593874c784d358a53f2bb6322d61
+      internalID: 213832089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_142
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 820
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4eec1303e9948cf8354f4fba06869b
+      internalID: -1616827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_143
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 804
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5aeae12613c4210ac3dd9300bfa381
+      internalID: -398923112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 800
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05590445c494064af85e41a53f08d2
+      internalID: 131225976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 756
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13694942f17b64656ac5dad3c89dac8a
+      internalID: -1925598048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_146
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 760
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c578b8dca97492babd46bf7b2f2b43
+      internalID: 1964892394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_147
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 760
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b8ac06b85154ec09ba6bf78d032087
+      internalID: 55424489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_148
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 760
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1ac279782b44eeb6cbaa12a0e6b2a
+      internalID: -929070096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_149
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 759
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612935d37b5c4405ac03aefd9649fbf
+      internalID: 548758825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_150
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 759
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de983c6920c27471d8d644e49988d1ca
+      internalID: 172156291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 759
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99762961217464f7182827e715ccbf8b
+      internalID: -1638326477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_152
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 758
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953bc8e40591f432c810a002fd49e996
+      internalID: 1457567462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_153
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 764
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618ff4f0c1004a4d86397497daa5061
+      internalID: -122202815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_154
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 719
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d6145beb2834bea8f14727d8c8243e
+      internalID: 2046660456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_155
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 718
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1e571f284f4ec5819a5f6077dc7f5
+      internalID: 1013417008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_156
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 719
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456e14b4dc874d078867fe8470e5143
+      internalID: -118400759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_157
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 746
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df899d0351b4d89a0525f5869a0290
+      internalID: -321516814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_158
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 719
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca7565add8f40b39aa701706c91cdf
+      internalID: -634988887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_159
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf66a538fd1dc49a5a1d1ec34e33ec01
+      internalID: -66398619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 726
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35ffa141389544b8b81103f35eaf701
+      internalID: -509969629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_161
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 726
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fce26087914821bf70c2443a07844
+      internalID: -424481658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_162
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacdc030c9b1840bfa946384c52a4d8e
+      internalID: 1524015913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_163
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36988de8a3af43679e541905e50ab21
+      internalID: -1055050878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_164
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff46146c3ffc41e9bca70d856ad505c
+      internalID: -1647822040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_165
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eeb5cc0459c4dc2abed1eeafd97ab8
+      internalID: -1147006339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_166
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eaf9fae9e804f4eac6afee41a8640f
+      internalID: -224855547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_167
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce33ec8c79c5146a5b18d94d3d4ba4bc
+      internalID: -281263295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f2dafb6ff44e218f7766c0b20a89b
+      internalID: 847189859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_169
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 723
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258af75904b744532940e43f92c83a29
+      internalID: 1849054233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_170
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21555c34a2742088e1fcd94d11c1c4
+      internalID: 1814500719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_171
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 728
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33cddf7898e74bb7887735615fb6930
+      internalID: 203601654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_172
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f221864a42482a94dd0fcabdb08d6
+      internalID: -1306585038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_173
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c13afafc13d453a8a0b0b8718d4c8c
+      internalID: 412544806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687640556dd6f4be1b4b154b2fd3d1fd
+      internalID: -992959097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 687
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52cfbae0aeef4bd4a30ea3b0139624d
+      internalID: 1196396818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_176
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfab7574f4f948dbbda0117cf6ab0c2
+      internalID: 732215230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 690
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd373191c072d494b9220c330ec79a40
+      internalID: -1205312062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_178
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 679
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e844c3ba990406c80dc61a824a97b0
+      internalID: 1962894231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_179
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 678
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4635f79356446368a6aa5c0bce03a4
+      internalID: -1116532246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_180
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 696
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b648f63e9db4f9e8e93bdf0b76c979
+      internalID: 1197933084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_181
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 686
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96aaafdd9f348a79674ff70a1235b2
+      internalID: -751579761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_182
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 686
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682132d335ca4403a09798798f36eb0
+      internalID: -849476177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_183
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 685
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a4cd6c3c0544b48f9ec26940a0420
+      internalID: 1082118983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_184
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 682
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c03edcd0924430b1bfe19a9ff0c0a
+      internalID: -1337027165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_185
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 683
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955348d55a6304312826818f0f3f87a6
+      internalID: -1810591286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_186
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd63e8168a2342e2a610958b7914047
+      internalID: 2062481027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_187
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8874071409f64a8199d3e3933d7c6c8
+      internalID: 90322726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_188
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117b75ec1acc54d8eaa83193d8784a7f
+      internalID: -574295177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_189
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 647
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74257cd60354443cd9a8f05747c28d14
+      internalID: 587114238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_190
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 646
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c19402f9a424891b719b8804baf989
+      internalID: 1511007868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_191
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 602
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda19edb1098465bb87bcccb48b91ea
+      internalID: 1018677107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 602
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995a5c50299344078404ab0ad2a6f41
+      internalID: 16077875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_193
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 610
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f1444563f5461aa5861f2a61aae67
+      internalID: 866471185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_194
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 610
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abb0dba1d11f4bb7a9f4eda746ac174
+      internalID: 1832243618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_195
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 638
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9544b4887557410ca57fe515e2d190b
+      internalID: 92847246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_196
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 638
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf4a77533c044360b92942b44f6e69f
+      internalID: 519305250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_197
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 638
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aff1e54fb02403b9fadcc2dab0bf62
+      internalID: -982415602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_198
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131111606838c4178bff94aba0b8dce1
+      internalID: -1262682159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_199
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 606
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfa57cbccbb47c0bd19897efccea09
+      internalID: 926020299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_200
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 607
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709598aed672a4d5ca990d3d06d3ae90
+      internalID: 2133384202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 607
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed753bde669e24598b47d19072088c85
+      internalID: -1141596129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_202
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 606
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452456d6165b471bafa7ad166bc8ebd
+      internalID: 905088252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_203
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 597
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b725de62c754c30a03216244c8c48e
+      internalID: 508783888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_204
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 597
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11973448c980f4939ae801eb7e9537a2
+      internalID: 371138675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778332019fc14a8aa556beaa15ca157
+      internalID: -1930597449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_206
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 566
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc29a7dbd7904c77b723336a971b99f
+      internalID: 1063624912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 566
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9748f75b0a3241f5af367e7889e590d
+      internalID: -232314988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 566
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56347a739d144ecb1d83d5af67118b
+      internalID: -2017336556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_209
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 570
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385278bf5426c4375826e6d73282ed79
+      internalID: 354242512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_210
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 563
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11d69f0cac5447c2b033fd2fc259beb
+      internalID: 1170209541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_211
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 562
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fca4990e1494f63853fa58bec2fa18
+      internalID: -982270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_212
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 541
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a289017c254b819da81018c11c6e2
+      internalID: 1480345792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_213
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 541
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc144f29cb5e455b85683fc07829264
+      internalID: 1078289785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_214
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38c95918330242229c8020e542fb63d
+      internalID: 1647668726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_215
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5d2e39e3924908bba1cb867afb099
+      internalID: 2139488687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_216
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 526
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bfbe0ab4b1487385ac3729676e768
+      internalID: -96697780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_217
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d389be5f33400db87e479a11906ed
+      internalID: -2001200787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_218
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 526
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385851d140fad4b1181f8a0ac346d524
+      internalID: 1111599922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_219
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6715e96a94f649519da707469aae8eb
+      internalID: -1969728321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_220
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f936b424a724b5c9200c8f39ff626e
+      internalID: -1421450183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_221
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66338ad14a0f74e5a98650208679ecc8
+      internalID: -150894128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 529
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad5cdefe22148b99e6c6dbd8c66d7c
+      internalID: 1957363418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_223
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 526
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676790cd4550740a4b8a7b99c35a9fde
+      internalID: 764214050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_224
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4daf918ab94315b403bc57c238058
+      internalID: -1766032025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_225
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea592f8c45448889625c37598db56a
+      internalID: 1695352724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_226
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6387ea5fa1b4362afc1fd35d017822
+      internalID: 1744351336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_227
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 477
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba619c2fe53942c781ff0958e216f3a
+      internalID: -1705163412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_228
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 477
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d18c0382ae4dd3979318835bdd726
+      internalID: -277186393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_229
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 482
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ad66565aaf43f4a6e002b47a9c2a4
+      internalID: -1197767152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_230
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 481
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f055b6f709744d395637d4309724a7
+      internalID: -107395094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_231
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 482
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e4779c62b24dd99facbd85ad7b3b4
+      internalID: 1892177419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_232
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 482
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520822f795944ca4a4277ad0d869e97
+      internalID: 336104271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_233
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fdade0fed0147899b55c30802aa8b6
+      internalID: 606172858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_234
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 485
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece4fcd4fde6429dbc70bae9d48a7d8
+      internalID: 1274168227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_235
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 486
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ae9593620d4b59841758f106df46f
+      internalID: 154316092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_236
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 446
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5603b4400e649b883b4f2b65f31fef
+      internalID: 839330561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_237
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 445
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5725ca9434ce542d0845a2b2a19b720b
+      internalID: -184891752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_238
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 446
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0cbb4ff17c842619d79c109fa7f818
+      internalID: -466832986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_239
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 446
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb0f74d770c46af90e8c8d00a6a418
+      internalID: 749105133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_240
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e19fa8476b4d0cb4e6e232e5b783d
+      internalID: 1664519554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_241
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdaabf16de4244bf9923ba06ea8ac31
+      internalID: 1529582659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611985d14c3914da4b4f4f74c321ad58
+      internalID: -750395054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_243
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eee8452934b4d5981d83c1ee245f18
+      internalID: 688334067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_244
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 446
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a810295eeccb42469eb989d415c6d5d
+      internalID: 535725569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_245
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be427d2fa026a4923830f0929ceb03d6
+      internalID: -490161293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f4c2ad21fc4019a98c52f29cf3319
+      internalID: -759153256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_247
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 399
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d020561d9da0e46fea5ea95454d6ecc0
+      internalID: -187411645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8927e8d26d3944e7e858a38e5e01ea4e
+      internalID: -542437667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_249
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 406
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38be91a1a734c42a99ff86139fd015ce
+      internalID: -257083431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_250
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 409
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9f9f30344d4600924c8be1c7050cd
+      internalID: 1114307896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_251
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 406
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9bd91746d424205979a02026cf7894
+      internalID: 1945518958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_252
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 409
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f83bcf87fe2444cbcb2edf755a104e
+      internalID: -924120130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_253
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 406
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c5de47f275474785a154eb85351d9
+      internalID: 1265034476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_254
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 409
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31ff16caedc428fa9de4230294f75a
+      internalID: -32876936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_255
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 406
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f9dd3fbf8d4e7a8bba4c6aa78c017
+      internalID: 986800621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_256
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 370
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc5ea449fb7f4096af790bfa809c306
+      internalID: -1119494759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_257
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 367
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884794599958432981920ff8eceef43
+      internalID: 1216359614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb5a58c74844466cb706215abcc087d
+      internalID: -1322817989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_259
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 408
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e3b44742954a989ab9cfb265a89c1
+      internalID: -1613589782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_260
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703998602bd2641848f2b272f46590cd
+      internalID: -154440494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_261
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128978aa47d8448969e34dbb00793d52
+      internalID: 966731511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_262
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 366
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d47528070aaf4eb89d8c64764f75061
+      internalID: -2042389207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_263
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 366
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42119c56ff4f143c6abfd4899928f27c
+      internalID: -550432660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_264
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 366
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e3baf3084447ffb3220cae1c14272
+      internalID: 223444161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_265
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 366
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b770ebf4cea4d6f9ebc47e01167abd
+      internalID: 1260523955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_266
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 366
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66526ed8cd3f4f49a7d443c0805e5f2
+      internalID: -64983645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_267
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc027a979ed5a49679868a11258d7586
+      internalID: 2028239804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_268
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cb3c787454464bbaf5f8eb21a0efe
+      internalID: -1204337553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd2cafbbcb854b07832d320fc0fc622
+      internalID: -259224169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_270
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a44bf80e22f4ca087463182d5404ab
+      internalID: -159264560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_271
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 322
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1a37ee35b14b26b1083f21b62d538
+      internalID: 91606607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_272
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51fc34ab80404d4d94d396259084531
+      internalID: -1822547983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_273
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28484004f0dfe4821a57a21c015d259b
+      internalID: 1588473824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_274
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 322
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d5d9b670e947869f7e24324a8590e
+      internalID: 1021142969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_275
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629479918b5642d18218863137f93a6
+      internalID: -1113467573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_276
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c76e708ea04344898ec2a17ca40b5
+      internalID: -60252990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_277
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 322
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e339a8c4be4c78856db8820055fa6
+      internalID: -601077959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_278
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fafe3a0ec9a4a9a99957b5643e1af1
+      internalID: 1206156823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_279
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 318
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee750149ada284d4fb2ed4c027f62814
+      internalID: 1381185397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_280
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 318
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b21b94d3c224dff976578333b17481
+      internalID: 1742973923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_281
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d9558288754f5ea4244d489056ce5
+      internalID: -442243190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_282
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 278
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbb3d724ecf345d0a0540616e5f6b64
+      internalID: 1975114536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_283
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b09c3299bcc4c1c84c0217917d9af7
+      internalID: -1635788408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1d9786123c49789861f6c3b4c0d30
+      internalID: 1244998214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_285
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1887c0d26b454896d6bd67644504e
+      internalID: 1534751069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_286
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 278
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1a0e2411344a3485c066650b57758
+      internalID: 651794114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ccd07e650a46d7924b92535bf0be5
+      internalID: 100435458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_288
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 238
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9846a6238774f426ba9118209f125882
+      internalID: -337215901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_289
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4487457832574dfa97c002f80108c33
+      internalID: -839360768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_290
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 238
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963b694206c26431d8e84d78ffc8757e
+      internalID: -1925688077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_291
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5628d55a53c5429eb5b0ebd7879f766
+      internalID: -1612939961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_292
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 238
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e00d8d4ae1447baa3e35e2e7b2e49f
+      internalID: 738102748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_293
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 238
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84af78d33147f462581b41cbe3dfca75
+      internalID: -645637876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_294
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 238
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5678daa7c334d3f8dee9ccb8dc24ac
+      internalID: -25693070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_295
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f4a6f996e1246d0b37f04d69dce6fd
+      internalID: 928155601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_296
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d5fda40dd0b422e9a47bf4cf88d3b5
+      internalID: -1607247492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_297
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 242
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578943da527f94fa499ace08dc7ea903
+      internalID: 937131101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_298
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 242
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df540bba7df944585a8fb1b81f63824f
+      internalID: -638006522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_299
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 242
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2c8804b0af40208442766edbb0ada
+      internalID: 550227022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe909f4107f04daab7e390e69a8c325
+      internalID: -1366175129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_301
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf5aa3e251924539afe52efdb43be0f
+      internalID: 1000867373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_302
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ef0a9d3c784bc8aaa3b0ecd84ab3b
+      internalID: -299148095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_303
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 206
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8f4aa90c1c5419e9ec8af276da4404
+      internalID: 771085605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_304
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc17596c6cc4baf986c6e0e468d8e7
+      internalID: 1454306793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_305
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658242f8dff4a429fbc82ec1f46f55d2
+      internalID: -437077417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_306
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f163efcc36144303971fe9f204f4dbd
+      internalID: -627391140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_307
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 198
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7321acda6c7a4ca0a8142b8fb6b43d6
+      internalID: 485619102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_308
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d1c181199c441709340402f522fc4a
+      internalID: -308939758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_309
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b674a0620f0743f3aa83266751a4324
+      internalID: 390442410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_310
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 207
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55600e68432e2438088758759a1f57cd
+      internalID: -2008817148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_311
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 207
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e604d731d521d476480ad42269efdbb4
+      internalID: -164249383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_312
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 206
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f839213cb667474185263750f72da1c
+      internalID: -330748878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_313
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 122
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af475f75f912444b59f13b83defa1377
+      internalID: -1187232447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_314
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff863d66085948398f30cfe7a1d483d
+      internalID: -1466250917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_315
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bc5d2861cd41feb9a0af9c9c071d1
+      internalID: 1136468830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_316
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88948325038c84034800d3faa97a22cf
+      internalID: 281672406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_317
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370db307105f64509ba253e80e999209
+      internalID: -1342832165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_318
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2675370d6e542edb0d70f400072945
+      internalID: -215964403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_319
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 126
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b6f1c91d95247479b9c887fdd46954
+      internalID: 1277772424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_320
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 167
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b56b2c4e67e40d2b410aa8c4a645c4
+      internalID: 856849534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_321
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 129
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0298efebd46d48569eb8cef49e5d2c3
+      internalID: 777567928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_322
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 130
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74628d6e924664435b597c5522dbf195
+      internalID: -1840517999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_323
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3327a66fee8048ba9e91c463024076c
+      internalID: 1834829700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_324
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 129
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48eb6f6ce2e40afb5609828722acaf
+      internalID: 510753844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_325
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c9020adf6594124a0f80a9d71cf174
+      internalID: 573978270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_326
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 32
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a808a60b92c4a13a9c778630a14d61
+      internalID: 1241342348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_327
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 33
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0400fb6b3e84b91abb7859255e6062
+      internalID: -1385026438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_328
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363bdaf84f7641fc9251889b0a0cf7f
+      internalID: -1708318121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_329
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac79478a5544bf38df28b0f4a3f96a
+      internalID: 478393788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_330
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b19de33e82f471c9d80199b373084b
+      internalID: 1308868670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_331
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd5a54d1ee2c4e90a80320d78a58d33
+      internalID: -99442798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_332
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01387675e9c4c472d87f704971cd0b1a
+      internalID: 1201556136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_333
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 42
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660408a457e4c480dab05d85ba5d42e8
+      internalID: -1655494751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_334
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3d741dadd8476c82181391b29cd86
+      internalID: -50470244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_335
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4de4450852b4f28b52e5356fae8947
+      internalID: 923023806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_336
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f07e238a3f425cb5c7a28c2c9cb17
+      internalID: -1900248756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_337
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f447c80dda43e88cc1a54cb4576b7
+      internalID: -1828444445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_338
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149b911a507747689eb25bdb8c0161a
+      internalID: 1281074454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_339
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e037222b30844b2a8e96196e67cd903
+      internalID: -929483717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_340
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc038d81ee9e04192ad67a19e0bbba59
+      internalID: -1267423354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_341
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1d00e32de24541a97b660de2ab19b
+      internalID: 1313936378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_342
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1503e67eb1e44beb4fbc5a8cdaff78
+      internalID: 1437372908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_343
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c8f5fd5c234cd0b1a97be40ed5571
+      internalID: 191130635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioenemysprites_344
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a8c40f94b84d6ba7924f046d509b1
+      internalID: 158726673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marioenemysprites_195: 92847246
+      marioenemysprites_89: 1079095174
+      marioenemysprites_315: 1136468830
+      marioenemysprites_134: -1149786750
+      marioenemysprites_248: -542437667
+      marioenemysprites_257: 1216359614
+      marioenemysprites_10: -202188296
+      marioenemysprites_137: 1198168626
+      marioenemysprites_302: -299148095
+      marioenemysprites_269: -259224169
+      marioenemysprites_165: -1147006339
+      marioenemysprites_330: 1308868670
+      marioenemysprites_338: 1281074454
+      marioenemysprites_106: -1019668727
+      marioenemysprites_341: 1313936378
+      marioenemysprites_39: -1316720100
+      marioenemysprites_217: -2001200787
+      marioenemysprites_54: -1909052224
+      marioenemysprites_84: 1768895711
+      marioenemysprites_307: 485619102
+      marioenemysprites_66: -239519842
+      marioenemysprites_203: 508783888
+      marioenemysprites_300: -1366175129
+      marioenemysprites_96: 483156334
+      marioenemysprites_56: -1322616575
+      marioenemysprites_15: -251224418
+      marioenemysprites_78: -779961111
+      marioenemysprites_339: -929483717
+      marioenemysprites_153: -122202815
+      marioenemysprites_289: -839360768
+      marioenemysprites_295: 928155601
+      marioenemysprites_316: 281672406
+      marioenemysprites_119: -1618939256
+      marioenemysprites_138: -1556770833
+      marioenemysprites_211: -982270060
+      marioenemysprites_274: 1021142969
+      marioenemysprites_176: 732215230
+      marioenemysprites_132: -475560012
+      marioenemysprites_280: 1742973923
+      marioenemysprites_75: 899291968
+      marioenemysprites_163: -1055050878
+      marioenemysprites_247: -187411645
+      marioenemysprites_197: -982415602
+      marioenemysprites_207: -232314988
+      marioenemysprites_325: 573978270
+      marioenemysprites_188: -574295177
+      marioenemysprites_179: -1116532246
+      marioenemysprites_181: -751579761
+      marioenemysprites_337: -1828444445
+      marioenemysprites_121: 364088793
+      marioenemysprites_14: 385759239
+      marioenemysprites_71: -611110259
+      marioenemysprites_318: -215964403
+      marioenemysprites_227: -1705163412
+      marioenemysprites_259: -1613589782
+      marioenemysprites_186: 2062481027
+      marioenemysprites_115: 1802101905
+      marioenemysprites_262: -2042389207
+      marioenemysprites_37: 2120309599
+      marioenemysprites_189: 587114238
+      marioenemysprites_273: 1588473824
+      marioenemysprites_76: -1458055348
+      marioenemysprites_309: 390442410
+      marioenemysprites_28: -815824763
+      marioenemysprites_38: -833796834
+      marioenemysprites_303: 771085605
+      marioenemysprites_231: 1892177419
+      marioenemysprites_256: -1119494759
+      marioenemysprites_209: 354242512
+      marioenemysprites_328: -1708318121
+      marioenemysprites_33: 1389683869
+      marioenemysprites_6: 429274798
+      marioenemysprites_169: 1849054233
+      marioenemysprites_3: -846215440
+      marioenemysprites_183: 1082118983
+      marioenemysprites_22: 1880246980
+      marioenemysprites_258: -1322817989
+      marioenemysprites_63: 580790140
+      marioenemysprites_199: 926020299
+      marioenemysprites_232: 336104271
+      marioenemysprites_272: -1822547983
+      marioenemysprites_114: -1237501149
+      marioenemysprites_74: -1548336904
+      marioenemysprites_65: 1339518820
+      marioenemysprites_99: 1345612182
+      marioenemysprites_322: -1840517999
+      marioenemysprites_30: 127803511
+      marioenemysprites_117: -26902722
+      marioenemysprites_51: -868722663
+      marioenemysprites_185: -1810591286
+      marioenemysprites_77: -1080294368
+      marioenemysprites_244: 535725569
+      marioenemysprites_83: 1218665738
+      marioenemysprites_108: -380159541
+      marioenemysprites_46: -1691935040
+      marioenemysprites_151: -1638326477
+      marioenemysprites_50: 113357664
+      marioenemysprites_133: 559329441
+      marioenemysprites_100: -1896737636
+      marioenemysprites_147: 55424489
+      marioenemysprites_206: 1063624912
+      marioenemysprites_205: -1930597449
+      marioenemysprites_196: 519305250
+      marioenemysprites_324: 510753844
+      marioenemysprites_286: 651794114
+      marioenemysprites_291: -1612939961
+      marioenemysprites_145: -1925598048
+      marioenemysprites_177: -1205312062
+      marioenemysprites_308: -308939758
+      marioenemysprites_336: -1900248756
+      marioenemysprites_167: -281263295
+      marioenemysprites_327: -1385026438
+      marioenemysprites_226: 1744351336
+      marioenemysprites_126: 1246548952
+      marioenemysprites_23: 96679218
+      marioenemysprites_92: 837739364
+      marioenemysprites_42: -121071231
+      marioenemysprites_287: 100435458
+      marioenemysprites_143: -398923112
+      marioenemysprites_41: 1765439204
+      marioenemysprites_270: -159264560
+      marioenemysprites_85: 772323890
+      marioenemysprites_0: 19112047
+      marioenemysprites_215: 2139488687
+      marioenemysprites_129: 836831482
+      marioenemysprites_116: -2073795714
+      marioenemysprites_127: 2091768111
+      marioenemysprites_150: 172156291
+      marioenemysprites_265: 1260523955
+      marioenemysprites_283: -1635788408
+      marioenemysprites_53: -1106066872
+      marioenemysprites_139: -510742083
+      marioenemysprites_332: 1201556136
+      marioenemysprites_112: -1988005375
+      marioenemysprites_81: 595040243
+      marioenemysprites_178: 1962894231
+      marioenemysprites_266: -64983645
+      marioenemysprites_45: -1080421228
+      marioenemysprites_95: -527357073
+      marioenemysprites_180: 1197933084
+      marioenemysprites_118: 624056483
+      marioenemysprites_285: 1534751069
+      marioenemysprites_310: -2008817148
+      marioenemysprites_69: -673315889
+      marioenemysprites_149: 548758825
+      marioenemysprites_11: -755944746
+      marioenemysprites_235: 154316092
+      marioenemysprites_140: 1591770236
+      marioenemysprites_218: 1111599922
+      marioenemysprites_193: 866471185
+      marioenemysprites_9: 209047489
+      marioenemysprites_212: 1480345792
+      marioenemysprites_334: -50470244
+      marioenemysprites_174: -992959097
+      marioenemysprites_254: -32876936
+      marioenemysprites_16: -784271071
+      marioenemysprites_97: 1980112259
+      marioenemysprites_342: 1437372908
+      marioenemysprites_249: -257083431
+      marioenemysprites_187: 90322726
+      marioenemysprites_213: 1078289785
+      marioenemysprites_103: 1688506861
+      marioenemysprites_237: -184891752
+      marioenemysprites_263: -550432660
+      marioenemysprites_135: -796927013
+      marioenemysprites_62: 513085232
+      marioenemysprites_20: 1159148768
+      marioenemysprites_12: -200064977
+      marioenemysprites_194: 1832243618
+      marioenemysprites_344: 158726673
+      marioenemysprites_222: 1957363418
+      marioenemysprites_123: 923318709
+      marioenemysprites_200: 2133384202
+      marioenemysprites_277: -601077959
+      marioenemysprites_7: 1469142029
+      marioenemysprites_102: -1870374973
+      marioenemysprites_152: 1457567462
+      marioenemysprites_242: -750395054
+      marioenemysprites_36: 1915168249
+      marioenemysprites_251: 1945518958
+      marioenemysprites_60: -210351660
+      marioenemysprites_160: -509969629
+      marioenemysprites_159: -66398619
+      marioenemysprites_229: -1197767152
+      marioenemysprites_293: -645637876
+      marioenemysprites_82: -1103503791
+      marioenemysprites_253: 1265034476
+      marioenemysprites_288: -337215901
+      marioenemysprites_19: -1377809690
+      marioenemysprites_101: -1433474654
+      marioenemysprites_172: -1306585038
+      marioenemysprites_214: 1647668726
+      marioenemysprites_29: -48235310
+      marioenemysprites_190: 1511007868
+      marioenemysprites_128: 329770576
+      marioenemysprites_201: -1141596129
+      marioenemysprites_105: 483167269
+      marioenemysprites_271: 91606607
+      marioenemysprites_335: 923023806
+      marioenemysprites_301: 1000867373
+      marioenemysprites_67: 1193235040
+      marioenemysprites_323: 1834829700
+      marioenemysprites_141: 213832089
+      marioenemysprites_58: -872532459
+      marioenemysprites_225: 1695352724
+      marioenemysprites_275: -1113467573
+      marioenemysprites_321: 777567928
+      marioenemysprites_234: 1274168227
+      marioenemysprites_49: 1557595769
+      marioenemysprites_68: -783338956
+      marioenemysprites_329: 478393788
+      marioenemysprites_5: 419591496
+      marioenemysprites_48: -1600209732
+      marioenemysprites_111: -183503667
+      marioenemysprites_59: -1524259072
+      marioenemysprites_93: -704680954
+      marioenemysprites_278: 1206156823
+      marioenemysprites_241: 1529582659
+      marioenemysprites_343: 191130635
+      marioenemysprites_144: 131225976
+      marioenemysprites_142: -1616827511
+      marioenemysprites_44: -1704399354
+      marioenemysprites_113: 1173867381
+      marioenemysprites_166: -224855547
+      marioenemysprites_80: 45936720
+      marioenemysprites_210: 1170209541
+      marioenemysprites_233: 606172858
+      marioenemysprites_125: 821917357
+      marioenemysprites_98: -437786656
+      marioenemysprites_208: -2017336556
+      marioenemysprites_294: -25693070
+      marioenemysprites_236: 839330561
+      marioenemysprites_284: 1244998214
+      marioenemysprites_305: -437077417
+      marioenemysprites_91: 1641088797
+      marioenemysprites_86: 395648335
+      marioenemysprites_239: 749105133
+      marioenemysprites_52: 935443630
+      marioenemysprites_168: 847189859
+      marioenemysprites_320: 856849534
+      marioenemysprites_220: -1421450183
+      marioenemysprites_268: -1204337553
+      marioenemysprites_175: 1196396818
+      marioenemysprites_204: 371138675
+      marioenemysprites_331: -99442798
+      marioenemysprites_109: 2092903414
+      marioenemysprites_198: -1262682159
+      marioenemysprites_43: -935252587
+      marioenemysprites_47: -151829805
+      marioenemysprites_13: -472004491
+      marioenemysprites_122: -820434005
+      marioenemysprites_104: -1589382022
+      marioenemysprites_146: 1964892394
+      marioenemysprites_219: -1969728321
+      marioenemysprites_245: -490161293
+      marioenemysprites_261: 966731511
+      marioenemysprites_290: -1925688077
+      marioenemysprites_162: 1524015913
+      marioenemysprites_40: 1459104845
+      marioenemysprites_26: -1529873915
+      marioenemysprites_1: -1770049834
+      marioenemysprites_156: -118400759
+      marioenemysprites_32: 963088963
+      marioenemysprites_130: -573887148
+      marioenemysprites_202: 905088252
+      marioenemysprites_216: -96697780
+      marioenemysprites_27: -969697069
+      marioenemysprites_224: -1766032025
+      marioenemysprites_223: 764214050
+      marioenemysprites_221: -150894128
+      marioenemysprites_240: 1664519554
+      marioenemysprites_21: 144851330
+      marioenemysprites_282: 1975114536
+      marioenemysprites_260: -154440494
+      marioenemysprites_304: 1454306793
+      marioenemysprites_255: 986800621
+      marioenemysprites_88: 291780613
+      marioenemysprites_90: -535385712
+      marioenemysprites_252: -924120130
+      marioenemysprites_184: -1337027165
+      marioenemysprites_281: -442243190
+      marioenemysprites_246: -759153256
+      marioenemysprites_279: 1381185397
+      marioenemysprites_192: 16077875
+      marioenemysprites_171: 203601654
+      marioenemysprites_64: 2071699203
+      marioenemysprites_61: 606453512
+      marioenemysprites_317: -1342832165
+      marioenemysprites_55: 764488180
+      marioenemysprites_25: 175060409
+      marioenemysprites_120: 1453031879
+      marioenemysprites_267: 2028239804
+      marioenemysprites_306: -627391140
+      marioenemysprites_70: 760207094
+      marioenemysprites_136: -514132159
+      marioenemysprites_155: 1013417008
+      marioenemysprites_87: -203816015
+      marioenemysprites_35: -1191572935
+      marioenemysprites_131: 274868808
+      marioenemysprites_311: -164249383
+      marioenemysprites_158: -634988887
+      marioenemysprites_24: 64850278
+      marioenemysprites_17: 13890531
+      marioenemysprites_243: 688334067
+      marioenemysprites_312: -330748878
+      marioenemysprites_313: -1187232447
+      marioenemysprites_299: 550227022
+      marioenemysprites_250: 1114307896
+      marioenemysprites_157: -321516814
+      marioenemysprites_164: -1647822040
+      marioenemysprites_238: -466832986
+      marioenemysprites_110: -592986069
+      marioenemysprites_340: -1267423354
+      marioenemysprites_107: -1553161504
+      marioenemysprites_148: -929070096
+      marioenemysprites_79: -2061127307
+      marioenemysprites_31: -409036635
+      marioenemysprites_292: 738102748
+      marioenemysprites_8: -723927274
+      marioenemysprites_276: -60252990
+      marioenemysprites_57: 912444261
+      marioenemysprites_34: 903168968
+      marioenemysprites_154: 2046660456
+      marioenemysprites_73: -1725895083
+      marioenemysprites_326: 1241342348
+      marioenemysprites_2: -709656312
+      marioenemysprites_170: 1814500719
+      marioenemysprites_297: 937131101
+      marioenemysprites_72: 602333166
+      marioenemysprites_296: -1607247492
+      marioenemysprites_161: -424481658
+      marioenemysprites_319: 1277772424
+      marioenemysprites_230: -107395094
+      marioenemysprites_173: 412544806
+      marioenemysprites_191: 1018677107
+      marioenemysprites_333: -1655494751
+      marioenemysprites_182: -849476177
+      marioenemysprites_124: -1241151526
+      marioenemysprites_228: -277186393
+      marioenemysprites_4: 1721490346
+      marioenemysprites_314: -1466250917
+      marioenemysprites_264: 223444161
+      marioenemysprites_18: -207186392
+      marioenemysprites_94: -777409570
+      marioenemysprites_298: -638006522
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

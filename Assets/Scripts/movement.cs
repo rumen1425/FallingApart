@@ -40,13 +40,14 @@ public class movement : MonoBehaviour
         {
             jump = true;
         }
-    }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("mobs"))
+        void OnTriggerEnter2D(Collider2D collision)
         {
-            health -= 1;
+            if (collision.gameObject.CompareTag("spikes"))
+            {
+                health -= 1;
+                Debug.Log(health);
+            }
         }
     }
 }

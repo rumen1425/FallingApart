@@ -26,7 +26,7 @@ public class BackgroundScroll : MonoBehaviour
         _offset = _material.mainTextureOffset.x;
 
         // Multiply set speed by horizontal to apply scroll direction.
-        // Multiply by Time.deltaTime to make background scrolling frame-independent.
+        // Multiply by Time.deltaTime to make background scrolling framerate-independent.
         _material.mainTextureOffset = new Vector2(_offset + (horizontal * speed * Time.deltaTime), 0); 
     }
 }

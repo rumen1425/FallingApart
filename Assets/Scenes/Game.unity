@@ -1268,7 +1268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90719a36babc84e43a6c336218f40365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.05
+  speed: 0.1
 --- !u!1 &479336013
 GameObject:
   m_ObjectHideFlags: 0
@@ -14965,7 +14965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90719a36babc84e43a6c336218f40365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.35
+  speed: 0.25
 --- !u!64 &737507299
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16058,7 +16058,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90719a36babc84e43a6c336218f40365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.2
+  speed: 0.15
 --- !u!1001 &1087319350
 PrefabInstance:
   m_ObjectHideFlags: 0

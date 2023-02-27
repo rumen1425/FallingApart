@@ -5,8 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - coins
-  - 'spikes '
-  - mobs
+  - flag
   layers:
   - Default
   - TransparentFX

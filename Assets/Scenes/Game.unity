@@ -277,7 +277,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87c1836a1a68345328947e62834d5b6c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 5
 --- !u!114 &33775154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17633,7 +17632,7 @@ GameObject:
   - component: {fileID: 1595382097}
   m_Layer: 0
   m_Name: flag
-  m_TagString: Untagged
+  m_TagString: flag
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

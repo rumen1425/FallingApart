@@ -3,19 +3,28 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Numerics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class movement : MonoBehaviour
+public class player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private BackgroundScroll[] backgrounds;
     private bool jump = true;
-    public int health = 5;
 
     // Start is called before the first frame update
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         backgrounds = FindObjectsOfType<BackgroundScroll>();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("flag"))
+        {
+            Destroy(collision.gameObject);
+            SceneManager.LoadScene(sceneName: "Main menu");
+        }
     }
 
     // Update is called once per frame
@@ -30,6 +39,7 @@ public class movement : MonoBehaviour
             bg.scroll(dirX);
         }
 
+        //prevents double jumping
         if (Input.GetButtonDown("Jump") && (jump == true))
         {
             rb.velocity = new UnityEngine.Vector2(rb.velocity.x, 20f);
@@ -39,15 +49,6 @@ public class movement : MonoBehaviour
         if (rb.velocity.y == 0)
         {
             jump = true;
-        }
-
-        void OnTriggerEnter2D(Collider2D collision)
-        {
-            if (collision.gameObject.CompareTag("spikes"))
-            {
-                health -= 1;
-                Debug.Log(health);
-            }
         }
     }
 }

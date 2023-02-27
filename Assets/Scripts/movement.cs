@@ -23,7 +23,7 @@ public class movement : MonoBehaviour
         if (collision.gameObject.CompareTag("flag"))
         {
             Destroy(collision.gameObject);
-            SceneManager.LoadScene(sceneName: "Main menu");
+            SceneManager.LoadScene(sceneName: "Game over");
         }
     }
 

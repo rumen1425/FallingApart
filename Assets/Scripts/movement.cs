@@ -5,7 +5,7 @@ using System.Numerics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class player : MonoBehaviour
+public class movement : MonoBehaviour
 {
     private Rigidbody2D rb;
     private BackgroundScroll[] backgrounds;
